@@ -1,4 +1,5 @@
 # Helpful-Maths
+```python
 a=str(input())
 b=[]
 for i in range(len(a)):
@@ -8,3 +9,4 @@ b.sort()
 print(b[0],end="")
 for i in range(1,len(b)):
     print("+"+b[i],end="")
+```
